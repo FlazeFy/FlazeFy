@@ -24,4 +24,9 @@ Here are some ideas to get you started:
             <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlazeFy&&layout=compact&langs_count=6">
         </td>
     </tr>
+    <tr>
+        <td>
+            <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy&theme=dark">
+        </td>
+    </tr>
 </table>
