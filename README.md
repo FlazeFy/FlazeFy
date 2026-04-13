@@ -16,13 +16,13 @@ I hold a **Bachelor's degree in Software Engineering** from Telkom University Ba
 
 ## 🌍 Languages
 -   **Experienced With :** Javascript, PHP, Dart, Go
--   **Currently Learning :** Typescript, Python, Swift
+-   **Currently Learning :** Typescript, Python, Java, Swift
 
 ## 🔧 Tech Stack & Skills
 -   **Backend :** Laravel, CodeIgniter, Go (Gin), Express.js, Fast API
 -   **Frontend :** NextJS, ReactJS
--   **Mobile :** Flutter, Swift
--   **Testing :** Manual & Automated Testing (Postman, Cypress, PHP Unit, JMeter)
+-   **Mobile :** Flutter
+-   **Testing :** Manual & Automated Testing (Postman Script, Cypress, PHP Unit, Playwright, K6, JMeter)
 -   **Documentation :** Software Requirement Specifications (SRS), Swagger Docs
 
 ## 📚 Education / Certifications
@@ -31,7 +31,8 @@ I hold a **Bachelor's degree in Software Engineering** from Telkom University Ba
 -   **Legal Certificate (HKI)** for MI-FIK Mobile App **(Flutter)**, Faculty of Creative Industries, Telkom University (2023)  
 -   Dibimbing **Golang Backend** Development Bootcamp (6 months, 2025)  
 -   Purwadhika **Fullstack JavaScript** Development Bootcamp (6 months, 2025–Present)  
--   **English Course** at English First (2025–Present)
+-   **English Course** Upper-Intermediate Level at English First (2025–Present)
+-   Dibimbing **Quality Assurance** Bootcamp (2026–Present)  
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linked_=in&logoColor=white)](https://www.linkedin.com/in/leonardho-rante-sitanggang/)
