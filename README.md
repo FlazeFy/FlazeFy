@@ -8,21 +8,20 @@ I hold a **Bachelor's degree in Software Engineering** from Telkom University Ba
         <td>
             <img align='left' src = "https://github-readme-streak-stats.herokuapp.com/?user=FlazeFy&theme=dark">
         </td>
-         <td>
-            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlazeFy&&layout=compact&langs_count=12">
-        </td>
     </tr>
 </table>
 
 ## 🌍 Languages
--   **Experienced With :** Javascript, PHP, Dart, Go, Typescript
--   **Currently Learning :** Java, Python, Swift
+-   **Experienced With :** Javascript, PHP, Dart, Typescript, Go, Java
+-   **Currently Learning :** Python, Swift
 
 ## 🔧 Tech Stack & Skills
 -   **Web :** Laravel, CodeIgniter, Gin, Express.js, NextJS, ReactJS, Fast API
 -   **Mobile :** Flutter
--   **Testing :** Manual & Automated Testing (Postman Script, Cypress, PHP Unit, Selenium, Rest Assured, Playwright, Jest, K6, JMeter)
--   **Documentation :** Software Requirement Specifications (SRS), Swagger Docs
+-   **Testing :** Manual & Automated Testing (Postman, Selenium, Rest Assured, Bruno, Cypress, PHP Unit, Playwright, Jest, K6, JMeter)
+-   **Documentation :** Software Requirement Specifications (SRS), Swagger Docs, Bruno Bru
+-   **Database :** PostgreSQL, MySQL, SQLite, Firebase Realtime, Firebase Firestore, MongoDB, InfluxDB  
+-   **Monitoring :** Grafana
 
 ## 📚 Education / Certifications
 -   Bachelor’s Degree in **Software Engineering**, Telkom University (2019–2023)  
@@ -31,7 +30,7 @@ I hold a **Bachelor's degree in Software Engineering** from Telkom University Ba
 -   Dibimbing **Golang Backend** Development Bootcamp (6 months, 2025)  
 -   Purwadhika **Fullstack JavaScript** Development Bootcamp (6 months, 2025-2026)  
 -   **English Course** Upper-Intermediate Level at English First (2025–Present)
--   Dibimbing **Quality Assurance** Bootcamp (2026–Present)  
+-   Dibimbing **Quality Assurance** Bootcamp (6 months, 2026)  
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linked_=in&logoColor=white)](https://www.linkedin.com/in/leonardho-rante-sitanggang/)
